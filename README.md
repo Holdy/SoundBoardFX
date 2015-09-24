@@ -24,6 +24,12 @@ Woodpecker - peck https://www.freesound.org/people/DjangoAltona/sounds/102972/
 Pidgeon fly away - http://www.freesound.org/people/mhusinsky/sounds/76445/
 Pidgeons flay away - http://www.freesound.org/people/Glaneur%20de%20sons/sounds/104954/
 
+Owl.Tawny - http://www.freesound.org/people/sean.townsend/sounds/202917/
+
+Magpie.Pica - http://www.freesound.org/people/acclivity/sounds/19925/
+
+Greenfinch.Trill - http://www.freesound.org/people/acclivity/sounds/13532/
+
 ## Outdoors
 
 Helicopter - helicopter https://www.freesound.org/people/altfuture/sounds/175000/
